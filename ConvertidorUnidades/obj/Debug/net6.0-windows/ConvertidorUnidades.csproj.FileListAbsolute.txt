@@ -1,0 +1,17 @@
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\bin\Debug\net6.0-windows\ConvertidorUnidades.exe
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\bin\Debug\net6.0-windows\ConvertidorUnidades.deps.json
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\bin\Debug\net6.0-windows\ConvertidorUnidades.runtimeconfig.json
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\bin\Debug\net6.0-windows\ConvertidorUnidades.dll
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\bin\Debug\net6.0-windows\ConvertidorUnidades.pdb
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.csproj.AssemblyReference.cache
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.Form1.resources
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.csproj.GenerateResource.cache
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.AssemblyInfoInputs.cache
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.AssemblyInfo.cs
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.csproj.CoreCompileInputs.cache
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.dll
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\refint\ConvertidorUnidades.dll
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.pdb
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ConvertidorUnidades.genruntimeconfig.cache
+E:\Proyectos C sharp\ConvertidorUnidades\ConvertidorUnidades\obj\Debug\net6.0-windows\ref\ConvertidorUnidades.dll
